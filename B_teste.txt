@@ -1,6 +1,2 @@
-a 
-s
- d
- dda
- s
- 
+v3.0 
+para alteração na versao 3

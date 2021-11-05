@@ -1,5 +1,0 @@
-gerando 
-uma alteração no 
-branch
-enviando a 
-funcionalidade x
